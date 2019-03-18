@@ -1,0 +1,92 @@
+body {
+  background-color: #efefef;
+}
+
+header {
+  margin-top: 20px;
+}
+
+.container {
+  width:: 920px;
+  margin: 0 auto 40px auto;
+  background-color: #fff;
+  }
+
+  .header-title-area {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+  .logo {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.header-navigation {
+  width: 100%;
+  background-color: #222222;
+  padding: 20px 0;
+}
+
+.header-navigation li {
+  float: left;
+  padding: 0 30px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.header-navigation li a {
+color: #efefef;
+text-decoration: none;
+}
+
+.header-navigation:after {
+  clear: both;
+  display: block;
+  content: " ";
+}
+.card-contents {
+  padding: 40px
+  display: block;
+  margin-bottom: 20px
+  background-color: #fff;
+}
+
+.record {
+  color: #efefef;
+  font-size: 3px;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.blog {
+  font-size: 24px
+}
+
+.card-contents {
+  padding: 40px;
+  display: block;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.leht-contents {
+  width: 600px;
+  margin-right: 20px;
+  float: left;
+}
+
+.right-contents {
+  width: 300px
+  float:left;
+}
+
+.staff-image1 {
+  width: 100px;
+  height:100px;
+  margin-bottom: 10px;
+  display: block;
+}
